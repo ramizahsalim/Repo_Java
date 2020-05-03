@@ -54,6 +54,15 @@ public class Homework2 {
         System.out.println("When you replace all 'r' with 'f': " + replaceRwithF);
 
 
+        int characters = 0;
+        for(char length: firstName.toCharArray()){
+            characters++;
+        }
+        System.out.println("Length of first name: " + characters);
+
+
+
+
 
 
 
